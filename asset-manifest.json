@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/browser-extension-manager/static/css/main.9836ca13.css",
+    "main.js": "/browser-extension-manager/static/js/main.2f85cc32.js",
+    "static/media/NotoSans-Italic-VariableFont_wdth,wght.ttf": "/browser-extension-manager/static/media/NotoSans-Italic-VariableFont_wdth,wght.71cb9076bddd954e9b70.ttf",
+    "static/media/NotoSans-VariableFont_wdth,wght.ttf": "/browser-extension-manager/static/media/NotoSans-VariableFont_wdth,wght.0e023bdf2fa0b6117356.ttf",
+    "static/media/NotoSans-Medium.ttf": "/browser-extension-manager/static/media/NotoSans-Medium.4ea329101279b68d9f28.ttf",
+    "static/media/NotoSans-Bold.ttf": "/browser-extension-manager/static/media/NotoSans-Bold.27d083f7f844fb896ae7.ttf",
+    "static/media/NotoSans-Regular.ttf": "/browser-extension-manager/static/media/NotoSans-Regular.9ab05beb031b68562995.ttf",
+    "index.html": "/browser-extension-manager/index.html",
+    "main.9836ca13.css.map": "/browser-extension-manager/static/css/main.9836ca13.css.map",
+    "main.2f85cc32.js.map": "/browser-extension-manager/static/js/main.2f85cc32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9836ca13.css",
+    "static/js/main.2f85cc32.js"
+  ]
+}
