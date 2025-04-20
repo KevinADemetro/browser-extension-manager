@@ -25,7 +25,7 @@ O design do projeto foi baseado em um desafio da plataforma [Frontend Mentor](ht
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/browser-extension-manager.git
+   git clone https://github.com/KevinADemetro/browser-extension-manager.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
@@ -63,9 +63,9 @@ Atualmente, não há planos para expandir o projeto. Ele serviu como um importan
 
 ## 📸 Preview
 
-*(adicione aqui um screenshot se quiser)*
+![ksnip_20250420-192007](https://github.com/user-attachments/assets/be29ebd5-2211-4f91-b0d9-acaba6a0c0f8)
 
 ---
 
-Feito com 💙 por [Seu Nome ou GitHub](https://github.com/seu-usuario)
+Feito com 💙 por [Kevin Albino Demetro](https://github.com/KevinADemetro)
 ```
